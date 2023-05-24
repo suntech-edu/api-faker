@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Iphone 12",
+      "price": "25000000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "id": "oPSzE11HGgfcH0LJ4aSfd"
+    },
+    {
+      "name": "iPhone 14 Pro test update",
+      "price": "24000000",
+      "description": "iPhone 14 Pro 128GB - Mẫu smartphone đến từ nhà Apple được mong đợi nhất năm 2022, lần này nhà Táo mang đến cho chúng ta một phiên bản với kiểu thiết kế hình notch mới, cấu hình mạnh mẽ nhờ con chip Apple A16 Bionic và cụm camera có độ phân giải được nâng cấp lên đến 48 MP",
+      "id": "saDLHtBHM6twblipqBqRT"
+    },
+    {
+      "name": "Điện thoại iPhone 14 128GB",
+      "price": "22000000",
+      "description": "iPhone 14 128GB được xem là mẫu smartphone bùng nổ của nhà táo trong năm 2022, ấn tượng với ngoại hình trẻ trung, màn hình chất lượng đi kèm với những cải tiến về hệ điều hành và thuật toán xử lý hình ảnh, giúp máy trở thành cái tên thu hút được đông đảo người dùng quan tâm tại thời điểm ra mắt.",
+      "id": "arBSQ5CCzujLFq5Fhyxx4"
+    },
+    {
+      "name": "Cấu hình Điện thoại iPhone 14 128GB",
+      "price": "45345345435",
+      "description": "Cấu hình Điện thoại iPhone 14 128GB test create product",
+      "id": "yhJZ-qlcJO7SJ7TN_RCVw"
+    },
+    {
+      "name": "rewr",
+      "price": "6546",
+      "description": "456456456",
+      "id": "kw8h0v6BIrlG3EkAotTWD"
+    },
+    {
+      "name": "7867",
+      "price": "788678",
+      "description": "678",
+      "id": "hKPWiWERwQpoIMWzSNIdR"
+    },
+    {
+      "name": "678678",
+      "price": "678",
+      "description": "678",
+      "id": "b449GzAGmc7Y9-CJGi5gH"
+    },
+    {
+      "name": "Iphone 16",
+      "price": 4500000,
+      "description": "Product description",
+      "id": "9XgJfo655JCGc7owGqCSe"
+    },
+    {
+      "name": "Test Product Name",
+      "price": 2423,
+      "description": "434234",
+      "id": "mjj13pNXARUcM6jgpwaTU"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "phone": "094534555",
+      "password": "123456"
+    },
+    {
+      "name": "suntech academy",
+      "email": "suntech@suntech.edu.vn",
+      "phone": "096755655",
+      "password": "123456@",
+      "id": "0Bq2hnAu-uEmEwyNdrXUC"
+    }
+  ]
+}
